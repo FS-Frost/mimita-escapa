@@ -8,12 +8,11 @@
     <Game />
 </main>
 
-<div class="footer w-100">
+<!-- <div class="footer w-100">
     <div class="container w-100">
         <p class="text-muted text-center w-100" />
     </div>
-</div>
-
+</div> -->
 <style>
     main {
         padding: 1em;
@@ -35,9 +34,9 @@
         }
     }
 
-    .footer {
+    /* .footer {
         position: absolute;
         bottom: 0;
         background: white;
-    }
+    } */
 </style>
