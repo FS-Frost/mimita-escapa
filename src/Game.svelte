@@ -3,7 +3,7 @@
     import Item, { ItemState } from "./item";
 
     const maxTries = 3;
-    const maxBlocks = 5;
+    const maxBlocks = 2;
 
     let size = 3;
     let targetX = 0;
