@@ -131,6 +131,7 @@
     </div>
 
     <div class="row info">
+        <p><b>Presionar el espacio [?] donde crees que está la Mimita</b></p>
         <p><b>Mantener presionado para bloquear espacio (evita que la Mimita lo ocupe)</b></p>
         <p>Bloqueos disponibles: {availableBlocks}</p>
         <p>Intentos disponibles: {availableTries}</p>
